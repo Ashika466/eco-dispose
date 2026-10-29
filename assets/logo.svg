@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="ecoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#047857" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="url(#ecoGrad)" />
+  <!-- Circuit trace & recycling leaf motif -->
+  <path d="M 60 25 C 40 25 25 40 25 60 C 25 80 40 95 60 95 C 80 95 95 80 95 60 C 95 40 80 25 60 25 Z" fill="none" stroke="#ffffff" stroke-width="4" stroke-dasharray="8 6" opacity="0.6"/>
+  <path d="M 60 35 L 75 58 L 65 58 L 65 80 L 55 80 L 55 58 L 45 58 Z" fill="#ffffff" />
+  <circle cx="60" cy="85" r="4" fill="#a7f3d0" />
+  <circle cx="35" cy="50" r="3" fill="#a7f3d0" />
+  <circle cx="85" cy="50" r="3" fill="#a7f3d0" />
+</svg>
