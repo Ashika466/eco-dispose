@@ -2,9 +2,13 @@
 
 > **“Dispose Responsibly. Recycle Sustainably.”**
 
-### 🌐 Live Public Website URL:
-👉 **[https://98d96ed3164267.lhr.life/](https://98d96ed3164267.lhr.life/)**  
-*(Publicly accessible worldwide on any browser, mobile phone, tablet, or PC without sign-in)*
+### 🌐 Live Public Website URL (Permanent 24/7 Cloud Host — No Tunnel):
+👉 **[https://ashika466.github.io/eco-dispose/](https://ashika466.github.io/eco-dispose/)**
+
+### 🐙 Public GitHub Repository:
+👉 **[https://github.com/Ashika466/eco-dispose](https://github.com/Ashika466/eco-dispose)**
+
+*(Hosted permanently on GitHub Pages CDN with HTTPS; publicly accessible worldwide on any smartphone, tablet, or PC without keeping your computer switched on or signing in).*
 
 An original, responsive, and production-ready web application developed for the **Semester V ISE/CSE BCS508 Environmental Studies and E-Waste Management** course assignment.
 
